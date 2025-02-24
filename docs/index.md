@@ -1,5 +1,3 @@
 ---
-title: Welcome to my blog
+title: Udacity Data Science
 ---
-
-## This is my blog
